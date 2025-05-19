@@ -2,7 +2,7 @@
 Modrinth: https://modrinth.com/mod/quick-cure-fabric
 
 
-idk how forks work so heres where i got the project
+I didn't know how forks worked so here's where I got the project
 https://github.com/Sarinsa/QuickCure-Fabric
 
 
